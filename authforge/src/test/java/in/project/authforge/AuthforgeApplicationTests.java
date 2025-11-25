@@ -1,0 +1,13 @@
+package in.project.authforge;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class AuthforgeApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
